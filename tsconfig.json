@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "es5",                          // Compile to ES5 for wide browser compatibility
+      "lib": ["dom", "dom.iterable", "esnext"], // Required libraries
+      "allowJs": true,                          // Allow JS files in your project
+      "skipLibCheck": true,                     // Skip library checking (can improve build speed)
+      "esModuleInterop": true,                  // Ensures compatibility with CommonJS
+      "allowSyntheticDefaultImports": true,     // Enables default imports from CommonJS modules
+      "strict": true,                           // Enable strict mode
+      "forceConsistentCasingInFileNames": true, // Ensure consistent casing in filenames
+      "module": "esnext",                       // Use ES module system (for modern builds)
+      "moduleResolution": "node",               // Module resolution strategy (node_modules)
+      "resolveJsonModule": true,                // Allow importing JSON modules
+      "jsx": "react-jsx"                        // Use React 17 JSX transform (for React 17+)
+    },
+    "include": [
+      "src"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  
