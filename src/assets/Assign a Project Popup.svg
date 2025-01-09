@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1185" height="869.2" viewBox="0 0 1185 869.2">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1185" height="869.2" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Assign_a_Project_Popup" data-name="Assign a Project Popup" clip-path="url(#clip-path)">
+    <rect id="Rectangle_120" data-name="Rectangle 120" width="1185" height="869.2" rx="10" fill="#fff"/>
+    <path id="Rectangle_121" data-name="Rectangle 121" d="M10,0H1175a10,10,0,0,1,10,10V52a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" fill="#26a9e0"/>
+    <text id="ASSIGN_A_NEW_PROJECT" data-name="ASSIGN A NEW PROJECT" transform="translate(43 37)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ASSIGN A NEW PROJECT</tspan></text>
+    <text id="X" transform="translate(1130 37)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">X</tspan></text>
+    <text id="Step_1_Select_a_template_or_create_a_custom_project" data-name="Step 1
+Select a template or create a custom project" transform="translate(42.641 109)" fill="#2f3a50" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Step 1</tspan><tspan font-size="18"><tspan x="0" y="25">Select a template or create a custom project</tspan></tspan></text>
+    <text id="Step_2_Provide_project_deliverable_details." data-name="Step 2
+Provide project deliverable details." transform="translate(49.641 377.809)" fill="#2f3a50" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Step 2</tspan><tspan font-size="18"><tspan x="0" y="25">Provide project deliverable details.</tspan></tspan></text>
+    <text id="Step_3_Project_Details:_Provide_basic_details_about_the_project._" data-name="Step 3
+Project Details: Provide basic details about the project. " transform="translate(476.641 109)" fill="#2f3a50" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Step 3</tspan><tspan font-size="18"><tspan x="0" y="25">Project Details: Provide basic details about the project. </tspan></tspan></text>
+    <g id="Forms_Input_Basic" data-name="Forms / Input / Basic" transform="translate(44.5 528.191)">
+      <g id="Rectangle_5" data-name="Rectangle 5" fill="#f9fbfc" stroke="#aca8a8" stroke-miterlimit="10" stroke-width="1">
+        <rect width="360" height="52" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="359" height="51" rx="3.5" fill="none"/>
+      </g>
+      <g id="UI_Forms_Input_Text" data-name="UI/Forms/Input Text" transform="translate(16 14)">
+        <rect id="UI_Forms_Input_Text_background" data-name="UI/Forms/Input Text background" width="326" height="22" fill="rgba(0,0,0,0)"/>
+        <text id="Title" transform="translate(0 17)" fill="#717171" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Estimated Hours</tspan></text>
+      </g>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(42.5 173.032)">
+      <g id="Forms_Input_Basic-2" data-name="Forms / Input / Basic">
+        <g id="Rectangle_5-2" data-name="Rectangle 5" fill="#f9fbfc" stroke="#aca8a8" stroke-miterlimit="10" stroke-width="1">
+          <rect width="360" height="52" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="359" height="51" rx="3.5" fill="none"/>
+        </g>
+        <g id="UI_Forms_Input_Text-2" data-name="UI/Forms/Input Text" transform="translate(16 14)">
+          <rect id="UI_Forms_Input_Text_background-2" data-name="UI/Forms/Input Text background" width="326" height="22" fill="rgba(0,0,0,0)"/>
+          <text id="Title-2" data-name="Title" transform="translate(0 17)" fill="#717171" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select a Category</tspan></text>
+        </g>
+      </g>
+      <path id="ic_arrow_drop_down_24px" d="M7,10l6.375,7.461L19.751,10Z" transform="translate(320.815 12.407)" fill="#717171"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(42.5 259.352)">
+      <g id="Forms_Input_Basic-3" data-name="Forms / Input / Basic">
+        <g id="Rectangle_5-3" data-name="Rectangle 5" fill="#f9fbfc" stroke="#aca8a8" stroke-miterlimit="10" stroke-width="1">
+          <rect width="360" height="52" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="359" height="51" rx="3.5" fill="none"/>
+        </g>
+        <g id="UI_Forms_Input_Text-3" data-name="UI/Forms/Input Text" transform="translate(16 14)">
+          <rect id="UI_Forms_Input_Text_background-3" data-name="UI/Forms/Input Text background" width="326" height="22" fill="rgba(0,0,0,0)"/>
+          <text id="Title-3" data-name="Title" transform="translate(0 17)" fill="#717171" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select a Project</tspan></text>
+        </g>
+      </g>
+      <path id="ic_arrow_drop_down_24px-2" data-name="ic_arrow_drop_down_24px" d="M7,10l6.375,7.461L19.751,10Z" transform="translate(320.815 12.407)" fill="#717171"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(44.5 441.383)">
+      <g id="Forms_Input_Basic-4" data-name="Forms / Input / Basic">
+        <g id="Rectangle_5-4" data-name="Rectangle 5" fill="#f9fbfc" stroke="#aca8a8" stroke-miterlimit="10" stroke-width="1">
+          <rect width="360" height="52" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="359" height="51" rx="3.5" fill="none"/>
+        </g>
+        <g id="UI_Forms_Input_Text-4" data-name="UI/Forms/Input Text" transform="translate(16 14)">
+          <rect id="UI_Forms_Input_Text_background-4" data-name="UI/Forms/Input Text background" width="326" height="22" fill="rgba(0,0,0,0)"/>
+          <text id="Title-4" data-name="Title" transform="translate(0 17)" fill="#717171" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Due Date</tspan></text>
+        </g>
+      </g>
+      <path id="ic_date_range_24px" d="M9,11H7v2H9Zm4,0H11v2h2Zm4,0H15v2h2Zm2-7H18V2H16V4H8V2H6V4H5A1.991,1.991,0,0,0,3.01,6L3,20a2,2,0,0,0,2,2H19a2.006,2.006,0,0,0,2-2V6A2.006,2.006,0,0,0,19,4Zm0,16H5V9H19Z" transform="translate(317.5 16)" fill="#717171"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(42.5 615.17)">
+      <g id="Forms_Input_Basic-5" data-name="Forms / Input / Basic">
+        <g id="Rectangle_5-5" data-name="Rectangle 5" fill="#f9fbfc" stroke="#aca8a8" stroke-miterlimit="10" stroke-width="1">
+          <rect width="360" height="52" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="359" height="51" rx="3.5" fill="none"/>
+        </g>
+        <g id="UI_Forms_Input_Text-5" data-name="UI/Forms/Input Text" transform="translate(16 14)">
+          <rect id="UI_Forms_Input_Text_background-5" data-name="UI/Forms/Input Text background" width="326" height="22" fill="rgba(0,0,0,0)"/>
+          <text id="Title-5" data-name="Title" transform="translate(0 17)" fill="#717171" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Upload File(s)</tspan></text>
+        </g>
+      </g>
+      <path id="ic_cloud_upload_24px" d="M19.35,10.04a7.492,7.492,0,0,0-14-2A6,6,0,0,0,6,20H19a4.986,4.986,0,0,0,.35-9.96ZM14,13v4H10V13H7l5-5,5,5Z" transform="translate(314.5 14)" fill="#717171"/>
+    </g>
+    <g id="Rectangle_94" data-name="Rectangle 94" transform="translate(477 151.503)" fill="#f9fbfc" stroke="#aca8a8" stroke-width="1">
+      <rect width="647" height="515.844" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="646" height="514.844" rx="9.5" fill="none"/>
+    </g>
+    <g id="Group_189" data-name="Group 189" transform="translate(907.16 678.543)">
+      <rect id="Rectangle_96" data-name="Rectangle 96" width="216.84" height="40" rx="5" fill="#1c75bc"/>
+      <text id="ASSIGN_PROJECT" data-name="ASSIGN PROJECT" transform="translate(42.676 25)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ASSIGN PROJECT</tspan></text>
+    </g>
+    <text id="Once_project_details_have_been_reviewed_our_team_will_collaborate_with_you_to_gather_any_additional_details_necessary_to_complete_the_project._If_this_new_project_is_feedback_or_a_modification_from_another_project_within_the_system_please_post_details_w" data-name="Once project details have been reviewed, our team will collaborate with you to gather any additional details necessary to complete the project.  If this new project is feedback or a modification from another project within the system, please post details w" transform="translate(61.5 772.7)" fill="#2f3a50" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Once project details have been reviewed, our team will collaborate with you to gather any additional details necessary </tspan><tspan x="0" y="37" xml:space="preserve">to complete the project.  If this new project is feedback or a modification from another project within the system, </tspan><tspan x="0" y="57">please post details within the related project rather than creating a new project. </tspan></text>
+    <line id="Line_20" data-name="Line 20" y2="63" transform="translate(44.5 772.7)" fill="none" stroke="#26a9e0" stroke-width="4"/>
+  </g>
+</svg>
