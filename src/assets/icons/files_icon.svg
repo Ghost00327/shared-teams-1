@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="89" viewBox="0 0 67 89">
+  <g id="Group_185" data-name="Group 185" transform="translate(-1302 -212)">
+    <text id="Files" transform="translate(1322 297)" fill="#2f3a50" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Files</tspan></text>
+    <g id="Group_28" data-name="Group 28" transform="translate(-254 5)">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="33.5" cy="33.5" r="33.5" transform="translate(1556 207)" fill="#2f3a50"/>
+      <path id="solid_file-alt" data-name="solid file-alt" d="M14.269,8.663V0H1.529A1.525,1.525,0,0,0,0,1.529V31.086a1.525,1.525,0,0,0,1.529,1.529h21.4a1.525,1.525,0,0,0,1.529-1.529V10.192H15.8A1.533,1.533,0,0,1,14.269,8.663ZM18.346,23.7a.767.767,0,0,1-.764.764H6.88a.767.767,0,0,1-.764-.764v-.51a.767.767,0,0,1,.764-.764h10.7a.767.767,0,0,1,.764.764Zm0-4.077a.767.767,0,0,1-.764.764H6.88a.767.767,0,0,1-.764-.764v-.51a.767.767,0,0,1,.764-.764h10.7a.767.767,0,0,1,.764.764Zm0-4.586v.51a.767.767,0,0,1-.764.764H6.88a.767.767,0,0,1-.764-.764v-.51a.767.767,0,0,1,.764-.764h10.7A.767.767,0,0,1,18.346,15.033Zm6.115-7.268v.389H16.307V0H16.7a1.528,1.528,0,0,1,1.083.446l6.236,6.243A1.524,1.524,0,0,1,24.461,7.765Z" transform="translate(1577.27 224.193)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
